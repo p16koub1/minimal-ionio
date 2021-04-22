@@ -6,7 +6,8 @@
   position: fixed;
   top: 0;
   width: 100%;
-  height: $masthead-height;
+  height: 85px;
+  background: white;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
